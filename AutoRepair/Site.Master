@@ -17,8 +17,7 @@
 
     <meta charset="utf-8">
     <title>Home page 1</title>
-    <meta content="Chernyh Mihail" name="author">
-    <meta content="Cardan - Auto Repair Services" name="description">
+    <meta content="Dom - Auto Repair Services" name="description">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="HandheldFriendly" content="true">
     <meta name="format-detection" content="telephone=no">
@@ -36,7 +35,7 @@
                     <div class="page-header__inner">
                         <div class="page-header__top-left">
                             <ul>
-                                <li><i class="fas fa-map-marker-alt"></i><span>1138  Havanna St, San Francisco <b>CA 94108</b></span></li>
+                                <li><i class="fas fa-map-marker-alt"></i><span>1060 Irvine Blvd, Irvine <b>CA 92612</b></span></li>
                                 <li><i class="far fa-clock"></i><span>Working Hours <b>Mon to Sat  9am - 7pm</b>  Sunday <b>Closed</b></span></li>
                             </ul>
                         </div>
@@ -94,12 +93,12 @@
                             </nav>
                         </div>
                         <div class="page-header__callback block-with-icon">
-                            <a class="block-with-icon__link" href="tel:8109200664">
+                            <a class="block-with-icon__link" href="tel:7865679653">
                                 <div class="block-with-icon__icon">
                                     <img src="assets/img/ico-callback.svg" alt="ico-callback"></div>
                                 <div class="block-with-icon__desc">
                                     <div class="block-with-icon__label">Talk With Our Experts</div>
-                                    <div class="block-with-icon__value">(810) 920-0664</div>
+                                    <div class="block-with-icon__value">(786) 567-9653</div>
                                 </div>
                             </a>
                         </div>
@@ -118,15 +117,15 @@
                         <div class="uk-flex-first@l">
                             <div class="logo"><a class="logo__link" href="/">
                                 <img class="logo__img" src="assets/img/logo-white.png" alt="logo"></a></div>
-                            <p>Emod tempor incididunt sed labore dnim ad minim ips veniam quis nosts exercitation ullamco.</p>
+                            <p>Serving our customers with unparalleled honesty, integrity and quality.</p>
                             <img src="assets/img/decor-line-right-accent.svg" alt="">
                             <div class="block-with-icon">
-                                <a class="block-with-icon__link" href="tel:8109204660">
+                                <a class="block-with-icon__link" href="tel:7865679653">
                                     <div class="block-with-icon__icon">
                                         <img src="assets/img/ico-comment.svg" alt="ico-comment"></div>
                                     <div class="block-with-icon__desc">
                                         <div class="block-with-icon__label">Talk With Our Experts</div>
-                                        <div class="block-with-icon__value">(810) 920-4660</div>
+                                        <div class="block-with-icon__value">(786) 567-9653</div>
                                     </div>
                                 </a>
                             </div>
@@ -146,7 +145,7 @@
                                         <img src="assets/img/ico-phone24.svg" data-uk-svg alt="For Repair Support"></div>
                                     <div class="contacts-list-item__desc">
                                         <div class="contacts-list-item__label">For Repair Support</div>
-                                        <div class="contacts-list-item__content"><a href="tel:+18107994660/5660">+1 (810) 799 4660 / 5660</a></div>
+                                        <div class="contacts-list-item__content"><a href="tel:+17865679653">+1 (786) 567-9653</a></div>
                                     </div>
                                 </li>
                                 <li class="contacts-list-item">
@@ -162,13 +161,13 @@
                                         <img src="assets/img/ico-mail.svg" data-uk-svg alt="Send Us Email"></div>
                                     <div class="contacts-list-item__desc">
                                         <div class="contacts-list-item__label">Send Us Email</div>
-                                        <div class="contacts-list-item__content"><a href="mailto:repair@my-domain.com">repair@my-domain.com</a></div>
+                                        <div class="contacts-list-item__content"><a href="mailto:repair@domautorepair.com">repair@domautorepair.com</a></div>
                                     </div>
                                 </li>
                             </ul>
                         </div>
                         <div>
-                            <div class="uk-h5">Cardan services</div>
+                            <div class="uk-h5">Dom services</div>
                             <ul class="uk-nav uk-list-disc">
                                 <li><a href="typography.html">Car Oil Change</a></li>
                                 <li><a href="typography.html">Purchase Inspection</a></li>
@@ -182,7 +181,7 @@
                         <div>
                             <div class="uk-h5">About company</div>
                             <ul class="uk-nav uk-list-disc">
-                                <li><a href="typography.html">About Cardan</a></li>
+                                <li><a href="typography.html">About Dom</a></li>
                                 <li><a href="typography.html">Fleet Maintenance</a></li>
                                 <li><a href="typography.html">Get a Career</a></li>
                                 <li><a href="typography.html">Service Areas</a></li>
@@ -195,7 +194,7 @@
                 </div>
             </div>
             <div class="page-footer-bottom">
-                <div class="uk-container"><span>(c) 2020 <b>CARDAN</b> - Auto Repair Services. All rights reserved.</span><a href="#!">Terms & Conditions</a></div>
+                <div class="uk-container"><span>2021 <b>Dom</b> - Auto Repair Services. All rights reserved.</span><a href="#!">Terms & Conditions</a></div>
             </div>
             <!-- Дополнительные блоки-->
             <div id="offcanvas" data-uk-offcanvas="overlay: true">
@@ -243,12 +242,12 @@
                         </ul>
                         <hr class="uk-margin">
                         <div class="block-with-icon">
-                            <a class="block-with-icon__link" href="tel:8109200664">
+                            <a class="block-with-icon__link" href="tel:7865679653">
                                 <div class="block-with-icon__icon">
                                     <img src="assets/img/ico-callback.svg" alt="ico-callback"></div>
                                 <div class="block-with-icon__desc">
                                     <div class="block-with-icon__label">Talk With Our Experts</div>
-                                    <div class="block-with-icon__value">(810) 920-0664</div>
+                                    <div class="block-with-icon__value">(786) 567-9653</div>
                                 </div>
                             </a>
                         </div>
@@ -262,7 +261,7 @@
                         <input class="uk-search-input uk-text-center" type="search" placeholder="Search..." autofocus></form>
                 </div>
             </div>
-            <!-- End Дополнительные блоки-->
+            <!-- End-->
         </footer>
     </div>
     <script src="assets/js/jquery.min.js"></script>

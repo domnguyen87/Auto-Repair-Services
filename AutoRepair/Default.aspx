@@ -30,8 +30,8 @@
                                         <div class="first-screen__title" data-uk-slideshow-parallax="x: 100,-100">
                                             <div class="uk-h2">We Make Your Vehicle<br>
                                                 In Good Shape</div>
-                                            <span>Minim veniam quis nostrud exercitation ullamco laboris nisu<br>
-                                                ex sed ipsum ea reprehen deritin voluptate.</span>
+                                         <%--   <span>Minim veniam quis nostrud exercitation ullamco laboris nisu<br>
+                                                ex sed ipsum ea reprehen deritin voluptate.</span>--%>
                                         </div>
                                         <div class="first-screen__btns" data-uk-slideshow-parallax="x: 200,-200"><a class="uk-button uk-button-danger uk-button-large" href="#!" data-uk-icon="triangle-right">Learn more</a><a class="uk-button uk-button-large" href="#!" data-uk-icon="triangle-right">Free estimate</a></div>
                                     </div>
@@ -58,8 +58,8 @@
                                     <div class="feature-item__icon">
                                         <img src="assets/img/ico-feature-1.svg" alt="ico-feature" data-uk-svg></div>
                                     <div class="feature-item__desc">
-                                        <div class="feature-item__title">Modern Equipments</div>
-                                        <div class="feature-item__text">Enim venia quis nostrud exrcit ulamco laboris nsut aliquip com conseq reprehenderit.</div>
+                                        <div class="feature-item__title">Every Job Is Personal</div>
+                                        <div class="feature-item__text">For reliable, quality, expert automotive repair and personal, friendly customer service</div>
                                         <div class="feature-item__more"><a class="uk-button-link" href="#!" data-uk-icon="triangle-right">Read More </a></div>
                                     </div>
                                 </div>
@@ -70,7 +70,7 @@
                                         <img src="assets/img/ico-feature-2.svg" alt="ico-feature" data-uk-svg></div>
                                     <div class="feature-item__desc">
                                         <div class="feature-item__title">Trusted Workshop</div>
-                                        <div class="feature-item__text">Enim venia quis nostrud exrcit ulamco laboris nsut aliquip com conseq reprehenderit.</div>
+                                        <div class="feature-item__text">We are proud of our track record, not to mention our ability to cover a good number of jobs all at once.</div>
                                         <div class="feature-item__more"><a class="uk-button-link" href="#!" data-uk-icon="triangle-right">Read More </a></div>
                                     </div>
                                 </div>
@@ -81,7 +81,7 @@
                                         <img src="assets/img/ico-feature-3.svg" alt="ico-feature" data-uk-svg></div>
                                     <div class="feature-item__desc">
                                         <div class="feature-item__title">Service Any Vehicle</div>
-                                        <div class="feature-item__text">Enim venia quis nostrud exrcit ulamco laboris nsut aliquip com conseq reprehenderit.</div>
+                                        <div class="feature-item__text"> We have technicians with enough knowledge of all types regardless if it’s a foreign or domestic brand.</div>
                                         <div class="feature-item__more"><a class="uk-button-link" href="#!" data-uk-icon="triangle-right">Read More </a></div>
                                     </div>
                                 </div>
@@ -103,13 +103,13 @@
                     </div>
                     <div class="uk-width-1-2@m">
                         <div class="section-title">
-                            <span>About Cardan Repair Services</span>
+                            <span>About Dom Repair Services</span>
                             <h3 class="uk-h2">We’re Committed To AutoRepair<br>
                                 Meets The Quality Standards</h3>
                         </div>
-                        <div class="section-content">
+                        <%--<div class="section-content">
                             <p>Kiusmod tempor incididunt ut labore sed dolore magnas aliquay enim ad minim veniam quis nostrud exercitation ullamco laboris nisut aliquip ex sed ipsum ea reprehen deritin voluptate.</p>
-                        </div>
+                        </div>--%>
                     </div>
                     <div>
                         <img class="uk-width-1-1" src="assets/img/img-about-2.jpg" alt="img-about-2"></div>
@@ -130,7 +130,7 @@
         <div class="section-partners uk-section-large">
             <div class="uk-container">
                 <div class="partners-title">
-                    <h3 class="uk-h2">CARDAN</h3>
+                    <h3 class="uk-h2">Dom</h3>
                     <span>Trusted by our millions of satisfied partners</span>
                 </div>
                 <div data-uk-slider>
@@ -195,7 +195,7 @@
                                                 <img src="assets/img/img-service-garante.jpg" alt="img-service-garante"></div>
                                         </div>
                                         <div class="service-content__body">
-                                            <p>Incididunt ut labore sed dolore magna aliquay enim veniam quis nostrud exercitas tion ullamco laboris nisi ut aliquip ex ea reprehen deritin voluptate.</p>
+                                            <%--<p>Incididunt ut labore sed dolore magna aliquay enim veniam quis nostrud exercitas tion ullamco laboris nisi ut aliquip ex ea reprehen deritin voluptate.</p>--%>
                                             <ul class="list-checked uk-column-1-2@s">
                                                 <li>75 Point Safety Inspection</li>
                                                 <li>ABS Light is on Inspection</li>
@@ -231,7 +231,7 @@
                                                 <img src="assets/img/img-service-garante.jpg" alt="img-service-garante"></div>
                                         </div>
                                         <div class="service-content__body">
-                                            <p>Incididunt ut labore sed dolore magna aliquay enim veniam quis nostrud exercitas tion ullamco laboris nisi ut aliquip ex ea reprehen deritin voluptate.</p>
+                                            <%--<p>Incididunt ut labore sed dolore magna aliquay enim veniam quis nostrud exercitas tion ullamco laboris nisi ut aliquip ex ea reprehen deritin voluptate.</p>--%>
                                             <ul class="list-checked uk-column-1-2@s">
                                                 <li>75 Point Safety Inspection</li>
                                                 <li>ABS Light is on Inspection</li>
@@ -267,7 +267,7 @@
                                                 <img src="assets/img/img-service-garante.jpg" alt="img-service-garante"></div>
                                         </div>
                                         <div class="service-content__body">
-                                            <p>Incididunt ut labore sed dolore magna aliquay enim veniam quis nostrud exercitas tion ullamco laboris nisi ut aliquip ex ea reprehen deritin voluptate.</p>
+                                            <%--<p>Incididunt ut labore sed dolore magna aliquay enim veniam quis nostrud exercitas tion ullamco laboris nisi ut aliquip ex ea reprehen deritin voluptate.</p>--%>
                                             <ul class="list-checked uk-column-1-2@s">
                                                 <li>75 Point Safety Inspection</li>
                                                 <li>ABS Light is on Inspection</li>
@@ -303,7 +303,7 @@
                                                 <img src="assets/img/img-service-garante.jpg" alt="img-service-garante"></div>
                                         </div>
                                         <div class="service-content__body">
-                                            <p>Incididunt ut labore sed dolore magna aliquay enim veniam quis nostrud exercitas tion ullamco laboris nisi ut aliquip ex ea reprehen deritin voluptate.</p>
+                                            <%--<p>Incididunt ut labore sed dolore magna aliquay enim veniam quis nostrud exercitas tion ullamco laboris nisi ut aliquip ex ea reprehen deritin voluptate.</p>--%>
                                             <ul class="list-checked uk-column-1-2@s">
                                                 <li>75 Point Safety Inspection</li>
                                                 <li>ABS Light is on Inspection</li>
@@ -340,24 +340,24 @@
                 </div>
                 <div>
                     <div class="block-with-icon">
-                        <a class="block-with-icon__link" href="tel:8109204660">
+                        <a class="block-with-icon__link" href="tel:7865649653">
                             <div class="block-with-icon__icon">
                                 <img src="assets/img/ico-phone.png" alt="ico-phone"></div>
                             <div class="block-with-icon__desc">
                                 <div class="block-with-icon__label">Schedule a Visit</div>
-                                <div class="block-with-icon__value">(810) 920-4660</div>
+                                <div class="block-with-icon__value">(786) 567-9653</div>
                             </div>
                         </a>
                     </div>
                 </div>
                 <div>
                     <div class="block-with-icon">
-                        <a class="block-with-icon__link" href="mailto:repair@cardan.com">
+                        <a class="block-with-icon__link" href="mailto:repair@Dom.com">
                             <div class="block-with-icon__icon">
                                 <img src="assets/img/ico-comments.png" alt="ico-comments"></div>
                             <div class="block-with-icon__desc">
                                 <div class="block-with-icon__label">Need Help? Send us Email</div>
-                                <div class="block-with-icon__value">repair@cardan.com</div>
+                                <div class="block-with-icon__value">repair@domautorepair.com</div>
                             </div>
                         </a>
                     </div>
@@ -427,25 +427,25 @@
                                     <img src="assets/img/logo-icon-white.svg" alt="">
                                     <div class="uk-h3">Feeling uneasy about<br>
                                         your vehicle?<br>
-                                        Cardan Can Help!</div>
+                                        Dom Can Help!</div>
                                 </div>
                             </div>
                         </div>
                         <div>
                             <div class="why-choose__content">
                                 <div class="section-title">
-                                    <span>Why Choose Cardan Repair Services</span>
+                                    <span>Why Choose Dom Repair Services</span>
                                     <h3 class="uk-h2">Master Technicians With Extensive Knowledge</h3>
                                 </div>
                                 <div class="section-content">
-                                    <p>Tempor incididunt labor sed dolore magna sed aliquay enim ad minim veniam quis nostrud exercitation ullamco laboris ex sed ipsum ea reprehen deritin voluptate.</p>
+                                    <p>Our mission is to provide the best automotive service and repair experience possible by serving our customers with unparalleled honesty, integrity and quality.</p>
                                     <ul class="why-choose-list">
                                         <li class="why-choose-list__item">
                                             <div class="why-choose-list__icon">
                                                 <img src="assets/img/ico-why-choose-1.png" alt="ico-why-choose"></div>
                                             <div class="why-choose-list__desc">
                                                 <div class="why-choose-list__title">Reliable & Fast Service</div>
-                                                <div class="why-choose-list__text">Magna aliqua umt enimd mini venia quis ulamco aliquip equats.</div>
+                                                <%--<div class="why-choose-list__text">Magna aliqua umt enimd mini venia quis ulamco aliquip equats.</div>--%>
                                             </div>
                                             <div class="why-choose-list__numb">1 </div>
                                         </li>
@@ -454,7 +454,7 @@
                                                 <img src="assets/img/ico-why-choose-2.png" alt="ico-why-choose"></div>
                                             <div class="why-choose-list__desc">
                                                 <div class="why-choose-list__title">Right-Way Repairing</div>
-                                                <div class="why-choose-list__text">Magna aliqua umt enimd mini venia quis ulamco aliquip equats.</div>
+                                                <%--<div class="why-choose-list__text">Magna aliqua umt enimd mini venia quis ulamco aliquip equats.</div>--%>
                                             </div>
                                             <div class="why-choose-list__numb">2</div>
                                         </li>
@@ -463,7 +463,7 @@
                                                 <img src="assets/img/ico-why-choose-3.png" alt="ico-why-choose"></div>
                                             <div class="why-choose-list__desc">
                                                 <div class="why-choose-list__title">Leading Auto Specialists</div>
-                                                <div class="why-choose-list__text">Magna aliqua umt enimd mini venia quis ulamco aliquip equats.</div>
+                                                <%--<div class="why-choose-list__text">Magna aliqua umt enimd mini venia quis ulamco aliquip equats.</div>--%>
                                             </div>
                                             <div class="why-choose-list__numb">3</div>
                                         </li>
@@ -478,7 +478,7 @@
         <div class="section-types-of-cars uk-section-large">
             <div class="uk-container">
                 <div class="section-title uk-text-center">
-                    <span>Fixing Any Kind Of Vehicles At Cardan</span>
+                    <span>Fixing Any Kind Of Vehicles At Dom</span>
                     <h3 class="uk-h2">Types Of Cars We Repair</h3>
                 </div>
                 <div class="section-container">
@@ -492,7 +492,7 @@
                                                 <img src="assets/img/ico-types-cars-1.png" alt="ico-types-cars"></div>
                                             <div class="types-cars-item__desc">
                                                 <div class="types-cars-item__title">Luxury Cars</div>
-                                                <div class="types-cars-item__text">Magna aliqua umt enimd mini venia quis ulamco aliquip equats. </div>
+                                                <div class="types-cars-item__text">BMW, Mercedes-Benz, Audi, Tesla, etc </div>
                                                 <div class="types-cars-item__more"><a class="uk-button-link" href="#!" data-uk-icon="triangle-right">Learn more </a></div>
                                             </div>
                                         </div>
@@ -504,8 +504,8 @@
                                             <div class="types-cars-item__icon">
                                                 <img src="assets/img/ico-types-cars-2.png" alt="ico-types-cars"></div>
                                             <div class="types-cars-item__desc">
-                                                <div class="types-cars-item__title">SUV’s & Pickups</div>
-                                                <div class="types-cars-item__text">Magna aliqua umt enimd mini venia quis ulamco aliquip equats.</div>
+                                                <div class="types-cars-item__title">SUV</div>
+                                                <div class="types-cars-item__text">CX-5, CR-V, RAV4, Wrangler, etc </div>
                                                 <div class="types-cars-item__more"><a class="uk-button-link" href="#!" data-uk-icon="triangle-right">Learn more </a></div>
                                             </div>
                                         </div>
@@ -517,8 +517,8 @@
                                             <div class="types-cars-item__icon">
                                                 <img src="assets/img/ico-types-cars-3.png" alt="ico-types-cars"></div>
                                             <div class="types-cars-item__desc">
-                                                <div class="types-cars-item__title">Sports Cars</div>
-                                                <div class="types-cars-item__text">Magna aliqua umt enimd mini venia quis ulamco aliquip equats.</div>
+                                                <div class="types-cars-item__title">Trucks</div>
+                                                <div class="types-cars-item__text">F-150, Ram, Silverado, Tacoma, etc</div>
                                                 <div class="types-cars-item__more"><a class="uk-button-link" href="#!" data-uk-icon="triangle-right">Learn more </a></div>
                                             </div>
                                         </div>
@@ -530,8 +530,8 @@
                                             <div class="types-cars-item__icon">
                                                 <img src="assets/img/ico-types-cars-4.png" alt="ico-types-cars"></div>
                                             <div class="types-cars-item__desc">
-                                                <div class="types-cars-item__title">Luxury Cars</div>
-                                                <div class="types-cars-item__text">Magna aliqua umt enimd mini venia quis ulamco aliquip equats.</div>
+                                                <div class="types-cars-item__title">Sports Cars</div>
+                                                <div class="types-cars-item__text">Mustang, 911, Supra, Corvette, etc</div>
                                                 <div class="types-cars-item__more"><a class="uk-button-link" href="#!" data-uk-icon="triangle-right">Learn more </a></div>
                                             </div>
                                         </div>
@@ -543,8 +543,8 @@
                                             <div class="types-cars-item__icon">
                                                 <img src="assets/img/ico-types-cars-5.png" alt="ico-types-cars"></div>
                                             <div class="types-cars-item__desc">
-                                                <div class="types-cars-item__title">SUV’s & Pickups</div>
-                                                <div class="types-cars-item__text">Magna aliqua umt enimd mini venia quis ulamco aliquip equats.</div>
+                                                <div class="types-cars-item__title">Electrics</div>
+                                                <div class="types-cars-item__text">Model 3, Bolt, Leaf, ID.4, Taycan, etc</div>
                                                 <div class="types-cars-item__more"><a class="uk-button-link" href="#!" data-uk-icon="triangle-right">Learn more </a></div>
                                             </div>
                                         </div>
@@ -561,7 +561,7 @@
             <div class="section-projects__shape">
                 <div class="uk-container">
                     <div class="section-title uk-text-center">
-                        <span>Cardan Is Leader In Auto Repair</span>
+                        <span>Dom Is Leader In Auto Repair</span>
                         <h3 class="uk-h2">Our Recent Projects</h3>
                     </div>
                     <div class="section-container">
@@ -671,7 +671,7 @@
             <div class="uk-container">
                 <div class="section-title uk-text-center">
                     <span>We Promise You To Give Best Repair Services</span>
-                    <h3 class="uk-h2">Nicest Words From Customers</h3>
+                    <h3 class="uk-h2">What Our Customers Say About Us</h3>
                 </div>
                 <div class="section-container">
                     <div data-uk-slider="autoplay: true">
@@ -681,15 +681,15 @@
                                     <div class="review-item">
                                         <div class="review-item__box">
                                             <div class="review-item__body">
-                                                <div class="review-item__title">Satisfied With The Workshop Facilities At Cardan Auto Repair Workshop</div>
-                                                <div class="review-item__text">At dolore magna aliqua umt enim ad mini veniam quis ulamco aliquip commodo da consequat duis aute irue derit voluptate cillum dolore afugiat.</div>
+                                                <div class="review-item__title">Satisfied With The Workshop Facilities At Dom Auto Repair Workshop</div>
+                                                <div class="review-item__text">The service and organization from this shop is great. From walking into the office they had the insurance claim recorded, rental car...</div>
                                             </div>
                                             <div class="review-item__user">
                                                 <div class="review-item__user-avatar">
                                                     <img src="assets/img/pic-avatar-1.png" alt="pic-avatar"></div>
                                                 <div class="review-item__user-info">
                                                     <div class="review-item__user-name">Donald H. James</div>
-                                                    <div class="review-item__user-position">Car Owner Repair</div>
+                                                    <%--<div class="review-item__user-position">Car Owner Repair</div>--%>
                                                 </div>
                                                 <div class="review-item__user-stars">
                                                     <img src="assets/img/decor-stars.png" alt="stars"></div>
@@ -702,14 +702,54 @@
                                         <div class="review-item__box">
                                             <div class="review-item__body">
                                                 <div class="review-item__title">Extremely Fast Service, Prompt Arrival, BEST! Incredible Job Done By Mechanic</div>
-                                                <div class="review-item__text">At dolore magna aliqua umt enim ad mini veniam quis ulamco aliquip commodo da consequat duis aute irue derit voluptate cillum dolore afugiat.</div>
+                                                <div class="review-item__text">I walked in because of a busted side mirror, and everyone was courteous from beginning to end: mechanics, front desk attendant and owners...</div>
+                                            </div>
+                                            <div class="review-item__user">
+                                                <div class="review-item__user-avatar">
+                                                    <img src="assets/img/pic-avatar-4.jpg" alt="pic-avatar"></div>
+                                                <div class="review-item__user-info">
+                                                    <div class="review-item__user-name">Katherine A. Fogg</div>
+                                                    <%--<div class="review-item__user-position">Car Owner Repair</div>--%>
+                                                </div>
+                                                <div class="review-item__user-stars">
+                                                    <img src="assets/img/decor-stars.png" alt="stars"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="review-item">
+                                        <div class="review-item__box">
+                                            <div class="review-item__body">
+                                                <div class="review-item__title">Refreshingly genuine service and care.</div>
+                                                <div class="review-item__text">You can tell as soon as you meet the courteous people from this family-run business that they are fair and straight-shooters. It can be so hard to tell where to go/ not for your car </div>
+                                            </div>
+                                            <div class="review-item__user">
+                                                <div class="review-item__user-avatar">
+                                                    <img src="assets/img/pic-avatar-3.jpg" alt="pic-avatar"></div>
+                                                <div class="review-item__user-info">
+                                                    <div class="review-item__user-name">Donald H. James</div>
+                                                    <%--<div class="review-item__user-position">Car Owner Repair</div>--%>
+                                                </div>
+                                                <div class="review-item__user-stars">
+                                                    <img src="assets/img/decor-stars.png" alt="stars"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="review-item">
+                                        <div class="review-item__box">
+                                            <div class="review-item__body">
+                                                <div class="review-item__title">Awesome people and they do incredible work.</div>
+                                                <div class="review-item__text">I took my 2018 Land Rover to them to repair damage to wheel wells and underbody and they returned it better and shinier than when I dropped it off! They have a mostly well organized process.</div>
                                             </div>
                                             <div class="review-item__user">
                                                 <div class="review-item__user-avatar">
                                                     <img src="assets/img/pic-avatar-2.png" alt="pic-avatar"></div>
                                                 <div class="review-item__user-info">
                                                     <div class="review-item__user-name">Katherine A. Fogg</div>
-                                                    <div class="review-item__user-position">Car Owner Repair</div>
+                                                    <%--<div class="review-item__user-position">Car Owner Repair</div>--%>
                                                 </div>
                                                 <div class="review-item__user-stars">
                                                     <img src="assets/img/decor-stars.png" alt="stars"></div>
@@ -721,55 +761,15 @@
                                     <div class="review-item">
                                         <div class="review-item__box">
                                             <div class="review-item__body">
-                                                <div class="review-item__title">Satisfied With The Workshop Facilities At Cardan Auto Repair Workshop</div>
-                                                <div class="review-item__text">At dolore magna aliqua umt enim ad mini veniam quis ulamco aliquip commodo da consequat duis aute irue derit voluptate cillum dolore afugiat.</div>
+                                                <div class="review-item__title">Top notch excellent service!</div>
+                                                <div class="review-item__text"> I found this place through Yelp and it's high ratings and am glad I went. They were professional and very efficient in everything they did: from customer service, to follow up and the work itself at a fair price.</div>
                                             </div>
                                             <div class="review-item__user">
                                                 <div class="review-item__user-avatar">
-                                                    <img src="assets/img/pic-avatar-1.png" alt="pic-avatar"></div>
+                                                    <img src="assets/img/pic-avatar-5.jpg" alt="pic-avatar"></div>
                                                 <div class="review-item__user-info">
                                                     <div class="review-item__user-name">Donald H. James</div>
-                                                    <div class="review-item__user-position">Car Owner Repair</div>
-                                                </div>
-                                                <div class="review-item__user-stars">
-                                                    <img src="assets/img/decor-stars.png" alt="stars"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="review-item">
-                                        <div class="review-item__box">
-                                            <div class="review-item__body">
-                                                <div class="review-item__title">Extremely Fast Service, Prompt Arrival, BEST! Incredible Job Done By Mechanic</div>
-                                                <div class="review-item__text">At dolore magna aliqua umt enim ad mini veniam quis ulamco aliquip commodo da consequat duis aute irue derit voluptate cillum dolore afugiat.</div>
-                                            </div>
-                                            <div class="review-item__user">
-                                                <div class="review-item__user-avatar">
-                                                    <img src="assets/img/pic-avatar-2.png" alt="pic-avatar"></div>
-                                                <div class="review-item__user-info">
-                                                    <div class="review-item__user-name">Katherine A. Fogg</div>
-                                                    <div class="review-item__user-position">Car Owner Repair</div>
-                                                </div>
-                                                <div class="review-item__user-stars">
-                                                    <img src="assets/img/decor-stars.png" alt="stars"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="review-item">
-                                        <div class="review-item__box">
-                                            <div class="review-item__body">
-                                                <div class="review-item__title">Satisfied With The Workshop Facilities At Cardan Auto Repair Workshop</div>
-                                                <div class="review-item__text">At dolore magna aliqua umt enim ad mini veniam quis ulamco aliquip commodo da consequat duis aute irue derit voluptate cillum dolore afugiat.</div>
-                                            </div>
-                                            <div class="review-item__user">
-                                                <div class="review-item__user-avatar">
-                                                    <img src="assets/img/pic-avatar-1.png" alt="pic-avatar"></div>
-                                                <div class="review-item__user-info">
-                                                    <div class="review-item__user-name">Donald H. James</div>
-                                                    <div class="review-item__user-position">Car Owner Repair</div>
+                                                    <%--<div class="review-item__user-position">Car Owner Repair</div>--%>
                                                 </div>
                                                 <div class="review-item__user-stars">
                                                     <img src="assets/img/decor-stars.png" alt="stars"></div>
@@ -833,7 +833,7 @@
         <div class="section-news uk-section-large">
             <div class="uk-container">
                 <div class="section-title">
-                    <span>Read What’s Happening At Cardan</span>
+                    <span>Read What’s Happening At Dom</span>
                     <h3 class="uk-h2">Latest News & Updates</h3>
                     <a class="uk-button uk-button-default uk-button-large" href="page-blog.html" data-uk-icon="triangle-right">Read more news</a>
                 </div>
