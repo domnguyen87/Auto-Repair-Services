@@ -31,7 +31,7 @@
                                                 <img src="assets/img/ico-contact-1.svg" data-uk-svg alt="HeadOffice Address"></div>
                                             <div class="contacts-list-item__desc">
                                                 <div class="contacts-list-item__label">HeadOffice Address</div>
-                                                <div class="contacts-list-item__content">354 Oakridge Lane, Camden NJ 08102 - USA</div>
+                                                <div class="contacts-list-item__content">1060 Irvine Blvd, Irvine, CA 92612</div>
                                             </div>
                                         </li>
                                         <li class="contacts-list-item">
@@ -39,7 +39,7 @@
                                                 <img src="assets/img/ico-contact-2.svg" data-uk-svg alt="For Rental Support"></div>
                                             <div class="contacts-list-item__desc">
                                                 <div class="contacts-list-item__label">For Rental Support</div>
-                                                <div class="contacts-list-item__content"><a href="tel:18107994660/5660">+1 (810) 799 4660 / 5660</a></div>
+                                                <div class="contacts-list-item__content"><a href="tel:17865679653">+1 (786) 567-9653</a></div>
                                             </div>
                                         </li>
                                         <li class="contacts-list-item">
@@ -55,7 +55,7 @@
                                                 <img src="assets/img/ico-contact-4.svg" data-uk-svg alt="Send Us Email"></div>
                                             <div class="contacts-list-item__desc">
                                                 <div class="contacts-list-item__label">Send Us Email</div>
-                                                <div class="contacts-list-item__content"><a href="mailto:repair@my-domain.net">repair@my-domain.net</a></div>
+                                                <div class="contacts-list-item__content"><a href="mailto:repair@domautorepair.com">repair@domautorepair.com</a></div>
                                             </div>
                                         </li>
                                     </ul>
@@ -91,12 +91,11 @@
             </div>
         </div>
         <div class="contacts-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12233.178242503007!2d-75.12062315790071!3d39.9571665186268!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c8f752067afb%3A0x31a9a3edb6f9b368!2z0JrQsNC80LTQtdC9LCDQndGM0Y4t0JTQttC10YDRgdC4IDA4MTAyLCDQodCo0JA!5e0!3m2!1sru!2sua!4v1608217970812!5m2!1sru!2sua"></iframe>
-        </div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1659.4082634850768!2d-117.76262106644968!3d33.71369615675967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcdce5f44ce7e9%3A0xb441d4794d6daf35!2sIrvine%20Blvd%2C%20California!5e0!3m2!1sen!2sus!4v1626759557701!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>        </div>
         <div class="section-partners uk-section-large">
             <div class="uk-container">
                 <div class="partners-title">
-                    <h3 class="uk-h2">CARDAN</h3>
+                    <h3 class="uk-h2">DOM</h3>
                     <span>Trusted by our millions of satisfied partners</span>
                 </div>
                 <div data-uk-slider>
