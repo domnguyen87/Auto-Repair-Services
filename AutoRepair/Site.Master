@@ -55,30 +55,30 @@
             <div class="page-header__bottom" data-uk-sticky>
                 <div class="uk-container uk-container-xlarge">
                     <div class="page-header__inner">
-                        <div class="page-header__logo logo"><a class="logo__link" href="index.html">
+                        <div class="page-header__logo logo"><a class="logo__link" href="/">
                             <img class="logo__img" src="assets/img/logo.png" alt="logo"></a></div>
                         <div class="page-header__menu mainmenu">
                             <nav class="uk-navbar-container uk-navbar-transparent" data-uk-navbar="">
                                 <ul class="uk-navbar-nav">
-                                    <li><a href="index.html">Home</a>
-                                        <div class="uk-navbar-dropdown">
+                                    <li><a href="/">Home</a>
+                                        <%--<div class="uk-navbar-dropdown">
                                             <ul class="uk-nav uk-navbar-dropdown-nav">
                                                 <li><a href="index.html">Home page 1</a></li>
                                                 <li><a href="page-home-2.html">Home page 2</a></li>
                                             </ul>
-                                        </div>
+                                        </div>--%>
                                     </li>
-                                    <li><a href="page-about.html">About us</a></li>
-                                    <li><a href="#!">Services<span data-uk-icon="chevron-down"></span></a>
-                                        <div class="uk-navbar-dropdown">
+                                    <li><a href="#!">Services</a>
+                                    <li><a href="#section-why-choose">About us</a></li>
+                                        <%--<div class="uk-navbar-dropdown">
                                             <ul class="uk-nav uk-navbar-dropdown-nav">
                                                 <li><a href="page-services-grid.html">Services Grid</a></li>
                                                 <li><a href="page-services-list.html">Services List</a></li>
                                                 <li><a href="page-services-article.html">Services Single</a></li>
                                             </ul>
-                                        </div>
+                                        </div>--%>
                                     </li>
-                                    <li><a href="typography.html">Page</a></li>
+                                    <%--<li><a href="typography.html">Page</a></li>
                                     <li><a href="page-blog-grid.html">News<span data-uk-icon="chevron-down"></span></a>
                                         <div class="uk-navbar-dropdown">
                                             <ul class="uk-nav uk-navbar-dropdown-nav">
@@ -87,7 +87,7 @@
                                                 <li><a href="page-blog-article.html">Blog article</a></li>
                                             </ul>
                                         </div>
-                                    </li>
+                                    </li>--%>
                                     <li><a href="\contact.aspx">Contact</a></li>
                                 </ul>
                             </nav>
@@ -196,20 +196,20 @@
             <div class="page-footer-bottom">
                 <div class="uk-container"><span>2021 <b>Dom</b> - Auto Repair Services. All rights reserved.</span><a href="#!">Terms & Conditions</a></div>
             </div>
-            <!-- Дополнительные блоки-->
+             
             <div id="offcanvas" data-uk-offcanvas="overlay: true">
                 <div class="uk-offcanvas-bar uk-flex uk-flex-column uk-flex-between">
                     <button class="uk-offcanvas-close" type="button" data-uk-close=""></button>
                     <div>
-                        <div class="logo"><a class="logo__link" href="index.html">
+                        <div class="logo"><a class="logo__link" href="/">
                             <img class="logo__img" src="assets/img/logo-white.png" alt="logo"></a></div>
                         <div class="uk-margin">
                             <ul class="uk-nav uk-nav-parent-icon" data-uk-nav>
                                 <li class="uk-parent"><a href="index.html">Home</a>
-                                    <ul class="uk-nav-sub">
+                                    <%--<ul class="uk-nav-sub">
                                         <li><a href="index.html">Home page 1</a></li>
                                         <li><a href="page-home-2.html">Home page 2</a></li>
-                                    </ul>
+                                    --%></ul>
                                 </li>
                                 <li><a href="page-about.html">About us</a></li>
                                 <li class="uk-parent"><a href="page-services-grid.html">Services</a>
